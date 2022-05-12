@@ -6,10 +6,10 @@
 
 ![](https://github.com/Codeprh/Codeprh/blob/main/header.png)
 
-<a href="https://github.com/dongzl">
+<a href="https://github.com/Codeprh">
   <img align="left" height=190px src="https://github-readme-stats.vercel.app/api?username=Codeprh&show_icons=true&count_private=true" />
 </a>
-<a href="https://github.com/dongzl">
+<a href="https://github.com/Codeprh">
   <img align="left" height=190px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeprh&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
 </a>
 
